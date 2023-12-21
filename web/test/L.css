@@ -1,0 +1,14 @@
+/*폰트 Import*/
+@import url('https://fonts.googleapis.com/css2?family=Diphylleia&display=swap');
+/*전체코드 적용*/
+* {
+    font-family: 'Diphylleia, sans-serif';
+}
+
+.login {
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    background-color: aqua;
+    margin: 20px auto 0px auto;  /*위 오른쪽 아래 왼쪽*/
+}
